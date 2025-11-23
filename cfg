@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# Pastikan file ada di folder sekarang
+FILE="config-Indonesia.zip"
+TARGET="/var/www/html"
+
+if [ -f "$FILE" ]; then
+    sudo mv "$FILE" "$TARGET"
+    echo "File berhasil dipindahkan ke $TARGET"
+else
+    echo "File $FILE tidak ditemukan!"
+fi
