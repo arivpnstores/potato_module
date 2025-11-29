@@ -7,7 +7,7 @@ Lock Dropbear Potato
 ```bash
 dropbear -V && apt-mark hold dropbear && chattr +i /usr/sbin/dropbear
 ```
-style-potato
+style-potato v2
 ```bash
 apt update && apt install -y screen curl wget python3-pip && pip install gdown --break-system-packages && gdown '1CWSzSa823zcWmorjrGutZwJo10V8rTt4' -O /usr/sbin/potatonc/style/style-potato.sh && chmod +x /usr/sbin/potatonc/style/style-potato.sh
 ```
