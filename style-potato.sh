@@ -131,7 +131,7 @@ StyleSshCreate() {
   echo -e " SSH WS        : ${domain}:80@$Login:$Pass"
   echo -e " SSH SSL       : ${domain}:443@$Login:$Pass"
   echo -e " SSH UDP       : ${domain}:1-65535@$Login:$Pass"
-  echo -e " SSH SELOWDNS  : ${domain}:5300@$Login:$Pass"
+  echo -e " SSH SELOWDNS  : ns-${domain}:5300@$Login:$Pass"
   echo -e "${BlueCyan} ————————————————————————————————————————${Suffix}"
   if [[ ${ns} != 'no' && ${pub} != 'no' ]]; then
     echo -e " HOST              : ${domain}"
