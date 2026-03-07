@@ -133,6 +133,10 @@ StyleSshCreate() {
   echo -e " SSH UDP       : ${domain}:1-65535@$Login:$Pass"
   echo -e " SSH SELOWDNS  : ns-${domain}:5300@$Login:$Pass"
   echo -e "${BlueCyan} ————————————————————————————————————————${Suffix}"
+  echo -e "${Ungu}               Account ZIVPN UDP            "
+  echo -e " DOMAIN       : ${domain}"
+  echo -e " Password     : $Login"
+  echo -e "${BlueCyan} ————————————————————————————————————————${Suffix}"
   if [[ ${ns} != 'no' && ${pub} != 'no' ]]; then
     echo -e " HOST              : ${domain}"
     echo -e " NameServer        : ${ns}"
