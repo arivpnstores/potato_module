@@ -4,7 +4,8 @@ StyleVmessCreate() {
   clear
 	echo -e ""
 	echo -e "${BlueCyan} ————————————————————————————————————————${Suffix}"
-	echo -e "${Ungu}          ARISCTUNNEL BY POTATO          "
+	echo -e "${Ungu}               VMESS PREMIUM             "
+echo -e "GRUP INFO SERVER : https://chat.whatsapp.com/KhFiKrSWrnE3mWCK53f9xo?mode=gi_t"
 	echo -e "${BlueCyan} ————————————————————————————————————————${Suffix}"
 	echo -e ""
   echo -e "${Ungu}                XRAY VMESS${Suffix}"
@@ -46,7 +47,8 @@ StyleVlessCreate() {
   clear
 	echo -e ""
 	echo -e "${BlueCyan} ————————————————————————————————————————${Suffix}"
-	echo -e "${Ungu}          ARISCTUNNEL BY POTATO          "
+	echo -e "${Ungu}               VLESS PREMIUM             "
+echo -e "GRUP INFO SERVER : https://chat.whatsapp.com/KhFiKrSWrnE3mWCK53f9xo?mode=gi_t"
 	echo -e "${BlueCyan} ————————————————————————————————————————${Suffix}"
 	echo -e ""
   echo -e "${Ungu}                XRAY VLESS${Suffix}"
@@ -87,7 +89,8 @@ StyleTrojanCreate() {
   clear
 	echo -e ""
 	echo -e "${BlueCyan} ————————————————————————————————————————${Suffix}"
-	echo -e "${Ungu}          ARISCTUNNEL BY POTATO          "
+	echo -e "${Ungu}               TRJOAN PREMIUM             "
+echo -e "GRUP INFO SERVER : https://chat.whatsapp.com/KhFiKrSWrnE3mWCK53f9xo?mode=gi_t"
 	echo -e "${BlueCyan} ————————————————————————————————————————${Suffix}"
 	echo -e ""
   echo -e "${Ungu}                  TROJAN                 ${Suffix}"
@@ -122,7 +125,8 @@ StyleSshCreate() {
   clear
 	echo -e ""
 	echo -e "${BlueCyan} ————————————————————————————————————————${Suffix}"
-	echo -e "${Ungu}          ARISCTUNNEL BY POTATO          "
+	echo -e "${Ungu}               SSH PREMIUM             "
+echo -e "GRUP INFO SERVER : https://chat.whatsapp.com/KhFiKrSWrnE3mWCK53f9xo?mode=gi_t"
 	echo -e "${BlueCyan} ————————————————————————————————————————${Suffix}"
 	echo -e ""
   echo -e "${Ungu}               SSH/Dropbear            "
@@ -177,7 +181,6 @@ echo -e " Payload ENHANCED : PACTH / HTTP/1.1[crlf]Host: [host][crlf]Host: bug.c
   echo -e "${Yellow}         Expired  :  ${exp}"
   echo -e "${BlueCyan} ————————————————————————————————————————${Suffix}"
 }
-
 
 
 
