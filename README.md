@@ -1,4 +1,8 @@
 # potato_module
+add path costum di ssh 
+```bash
+bash <(curl -sSL https://raw.githubusercontent.com/arivpnstores/potato_module/main/welcome.sh)
+```
 menganti welcome di server id
 ```bash
 bash <(curl -sSL https://raw.githubusercontent.com/arivpnstores/potato_module/main/welcome.sh)
