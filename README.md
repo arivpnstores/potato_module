@@ -25,7 +25,7 @@ wget -O install.sh https://raw.githubusercontent.com/arivpnstores/backed-totalus
 ```
 ZIVPN SC POTATO
 ```bash
-echo "on" | tee /etc/.allowzivpn > /dev/null && wget https://raw.githubusercontent.com/potatonc/zivpn-udp/refs/heads/main/zi.sh -O /usr/local/bin/zi && chmod +x /usr/local/bin/zi && zi help
+echo "on" | tee /etc/.allowzivpn > /dev/null && wget https://raw.githubusercontent.com/potatonc/zivpn-udp/refs/heads/main/zi.sh -O /usr/local/bin/zi && chmod +x /usr/local/bin/zi && zi install && zi help
 ```
 DNS SET + IPV4 ONLY LANGSUNG  
 ```bash
