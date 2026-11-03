@@ -1,4 +1,8 @@
 # potato_module
+fix sshws mati sendiri
+```bash
+bash <(curl -sSL https://raw.githubusercontent.com/arivpnstores/potato_module/main/fix-sshws.sh)
+```
 add path costum di ssh 
 ```bash
 bash <(curl -sSL https://raw.githubusercontent.com/arivpnstores/potato_module/main/ssh-path-manager.sh)
