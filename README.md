@@ -21,7 +21,7 @@ apt install -y wget && wget https://raw.githubusercontent.com/arivpnstores/potat
 ```
 ZIVPN SC POTATO
 ```bash
-echo "on" | tee /etc/.allowzivpn > /dev/null && wget https://raw.githubusercontent.com/potatonc/zivpn-udp/refs/heads/main/zi.sh -O /usr/local/bin/zi && chmod +x /usr/local/bin/zi && zi install && zi help
+echo "on" | tee /etc/.allowzivpn && wget https://raw.githubusercontent.com/potatonc/zivpn-udp/main/zi.sh -O /usr/local/bin/zi && chmod +x /usr/local/bin/zi && zi install && zi help
 ```
 backed-totaluser
 ```bash
